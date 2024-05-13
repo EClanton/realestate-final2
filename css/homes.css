@@ -1,0 +1,27 @@
+h1.h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color:midnightblue;
+    text-align: center;
+    padding: 5%;
+}
+
+h2.h2 {
+    color:midnightblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.homes {
+    border: 6px solid;
+    color: firebrick;
+    width: 100%;
+    height: 50%;
+    padding: 10px;
+}
+
+.main {
+    height: 550px;
+}
+
+.map {
+    border:2px solid midnightblue
+}
